@@ -1,0 +1,7 @@
+This is the colors of the rainbox..
+
+Red
+Yellow
+Purple
+Green
+Orange
